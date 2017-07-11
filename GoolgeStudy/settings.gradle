@@ -1,1 +1,1 @@
-include ':app', ':scenedemo', ':drawerlayoutdemo', ':swiperefreshlayoutdemo'
+include ':app', ':scenedemo', ':drawerlayoutdemo', ':swiperefreshlayoutdemo', ':coordinatorlayoutdemo'
